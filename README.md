@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 - 🧑‍💻 I'm a Senior Software Engineer and offer the following consultancy services:
-  - Android App design, build and test services
+  - System architecture 
+  - Distributed systems
+  - Backend applications
+  - Android App design, build and test
   - Android SDK specific consultancy, how to design, build, distribute open or closed source SDKs in the Android ecosystem
   - App security and hardening techniques
 
