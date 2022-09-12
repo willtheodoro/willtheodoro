@@ -1,11 +1,18 @@
 ### Hi there 👋
 
+- Rust
+- C/C++
+- Python
+- Assembler (x86_64, arm)
+- JVM Languages (Javam Kotlin, Scala, Clojure)
+- Reverse engineering
+
 - 🧑‍💻 I'm a Senior Software Engineer and offer the following consultancy services:
   - System architecture 
   - Distributed systems
   - Backend applications
   - Android App design, build and test
-  - Android SDK specific consultancy, how to design, build, distribute open or closed source SDKs in the Android ecosystem
+  - Android Libraries
   - App security and hardening techniques
 
 - 🔭 I’m currently working at a private company building security/antifraud applications and libraries
