@@ -4,7 +4,7 @@
 - C/C++
 - Python
 - Assembler (x86_64, arm)
-- JVM Languages (Javam Kotlin, Scala, Clojure)
+- JVM Languages (Java, Kotlin, Scala, Clojure)
 - Reverse engineering
 
 - 🧑‍💻 I'm a Senior Software Engineer and offer the following consultancy services:
