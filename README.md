@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Wiliam!
+
+I am and have been a developer since the mid 1990s.
 
 - Rust
 - C/C++
@@ -7,7 +9,7 @@
 - JVM Languages (Java, Kotlin, Scala, Clojure)
 - Reverse engineering
 
-- 🧑‍💻 I'm a Senior Software Engineer and offer the following consultancy services:
+- 🧑‍💻 Senior Software Engineer and offer the following consultancy services:
   - System architecture 
   - Distributed systems
   - Backend applications
@@ -16,7 +18,6 @@
   - App security and hardening techniques
 
 - 🔭 I’m currently working at a private company building security/antifraud applications and libraries
-  - Day to day using a lot of programming languages in the correct context
 
 - 💬 Ask me about System/Cloud architecture, System development, Android development, Mobile security,  Trail running or Coffee!  
 - 📫 How to reach me: via [Linkedin](https://www.linkedin.com/in/wiliam-teodoro-silva/) 
